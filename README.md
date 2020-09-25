@@ -1,6 +1,6 @@
 # Paper-Reading (SocialComputing@ICT)
 
-## 2020.9.23
+## 2020.9.23 （Tao Shuchang & Wu Yunfan）
 1. **AdvMind: Inferring Adversary Intent of Black-Box Attacks.** [[paper](https://github.com/CaoQi92/Paper-Reading/raw/master/2020.9.23/AdvMind-%20Inferring%20Adversary%20Intent%20of%20Black-Box%20Attacks.pdf)] [[ppt](https://github.com/CaoQi92/Paper-Reading/raw/master/2020.9.23/20200923_KDD_陶舒畅分享.pptx)]  
 *Pang, Ren, Xinyang Zhang, Shouling Ji, Xiapu Luo, and Ting Wang.* 2020, KDD. 
 
