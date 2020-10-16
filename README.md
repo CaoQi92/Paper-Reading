@@ -1,4 +1,7 @@
 # Paper-Reading (SocialComputing@ICT)
+List of shared papers at the paper reading held by SocialComputing group,   
+CAS Key Laboratory of Network Data Science and Technology,   
+Institute of Computing Technology, Chinese Academy of Sciences.
 
 ## 2020.9.23 （Tao Shuchang & Wu Yunfan）
 1. **AdvMind: Inferring Adversary Intent of Black-Box Attacks.** [[paper](https://github.com/CaoQi92/Paper-Reading/raw/master/2020.9.23/AdvMind-%20Inferring%20Adversary%20Intent%20of%20Black-Box%20Attacks.pdf)] [[ppt](https://github.com/CaoQi92/Paper-Reading/raw/master/2020.9.23/20200923_KDD_陶舒畅分享.pptx)]  
